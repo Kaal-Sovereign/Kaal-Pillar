@@ -1,5 +1,7 @@
-<div align="right" style="margin-bottom: 30px;">
-  <a href="https://github.com/Kaal-Sovereign" style="text-decoration: none; color: #111; font-family: 'Times New Roman', serif; font-size: 28px; font-weight: bold; letter-spacing: 2px;">Kaal Sovereign</a>
+<div align="right" style="margin-bottom: 24px;">
+  <a href="https://github.com/Kaal-Sovereign">
+    <img src="org-stamp.svg" alt="Kaal Sovereign Official Publication Stamp" width="260" />
+  </a>
 </div>
 
 Long-Horizon Civilizational Community
