@@ -1,6 +1,6 @@
-<div align="center" style="margin-bottom: 24px;">
+<div align="right" style="margin-bottom: 24px;">
   <a href="https://github.com/Kaal-Sovereign">
-    <img src="org-stamp.svg" alt="Kaal Sovereign Official Publication Stamp" width="280" />
+    <img src="org-stamp.svg" alt="Kaal Sovereign Official Publication Stamp" width="260" />
   </a>
 </div>
 
